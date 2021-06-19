@@ -1,0 +1,23 @@
+.boi{
+    color: #198754;
+    font-weight: bold;
+    font-size: 30px;
+}
+.logo{
+    font-weight: bold;
+    font-size:25px;
+    letter-spacing:2px;
+}
+#navbar-Rigt{
+    font-size:18px;
+    font-family: roboto;
+    letter-spacing:1px;
+}
+.btnLink{
+    text-decoration: none;
+    color: white;
+}
+.btnLink:hover{
+    text-decoration: none;
+    color: white;
+}

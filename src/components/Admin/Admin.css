@@ -1,0 +1,53 @@
+.adminContainer{
+   display: flex;
+   width:80%;
+   margin: auto;
+}
+.adminLeft{
+    width:30%;
+    height:500px;
+    background: green;
+    color: white;
+    border-radius:10px 0px 0px 10px;
+    
+}
+.leftContent{
+    margin: 50px 0px 0px 60px;
+    text-align: left;
+
+}
+.leftContent h4{
+    margin-top: 15px;
+}
+.adminRight{
+    width:70%;
+    height:500px;
+    background: silver;
+    border-radius:0px 10px 1px 0px;
+}
+.formContainer{
+    margin: 40px auto;
+    width:80%;
+    background:white;
+    border-radius: 10px;
+    padding:20px;
+}
+.topContainer{
+    display: flex;
+}
+.bottomContainer{
+    display: flex;
+}
+.bookName {
+    margin: 0px 20px 10px 0px;
+}
+.addPrice{
+    margin: 0px 20px 10px 0px;
+}
+.bookName label {
+    text-align:left;
+}
+.btnDesing{
+    float: right;
+    margin-right: 70px;
+}

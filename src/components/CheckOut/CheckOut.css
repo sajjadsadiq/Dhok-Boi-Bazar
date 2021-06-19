@@ -1,0 +1,13 @@
+.chekckTitle{
+    float: left;
+    margin-top: 20px;
+}
+.btnDesing{
+    float: right;
+}
+.btnDesing{
+    color: white;
+}
+.btnDesing:hover{
+    color: white;
+}

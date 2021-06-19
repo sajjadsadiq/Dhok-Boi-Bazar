@@ -1,0 +1,17 @@
+[{"image":"https://i.ibb.co/YZWBkCk/image-31.png","title":"Learn JavaScript Quickly", "id": "javascript-quickly","subtitle":"Odele Musso","author":"Dan Vanderkam","price":123,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/0YrWMm2/image-30.png","title":"Software Engineering at Google","id": "software-engineering-at-google","subtitle":"Odele Musso","author":"Titus Winter","price":318,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/kGXkf6D/image-21.png","title":"The Road to React", "id": "the-road-to-reack","subtitle":"Odele Musso","author":"Robin Wieruch","price":198,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/z56K41H/image-22.png","title":"The C Programming Language", "id": "c-programming-language","subtitle":"Odele Musso","author":"Brain W. Kernighan Dennis M. Ritchie","price":261,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/DLF92xc/image-29.png","title":"Python Crash Course", "id": "python-crash-course","subtitle":"Odele Musso","author":"Eric Matthes","price":392,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/g3k8nPz/image-23.png","title":"Effective TypeScript", "id": "effective-typescript","subtitle":"Odele Musso","author":"Dan Vanderkam","price":318,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/9nTB3c9/image-25.png","title":"JavaScript Everywhere", "id": "javascript-everywhere","subtitle":"Odele Musso","author":"Adam D. Scottark Lutz","price":105,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/GTLN7mr/image-20.png","title":"Learning React", "id": "learnign-react","subtitle":"Odele Musso","author":"Alex Banks & Eve Porcello ","price":330,"btn":"Buy Now"},
+
+{"image":"https://i.ibb.co/VYdq34S/image-19.png","title":"Eloquent JavaScript", "id": "eloquent-javascript","subtitle":"Odele Musso","author":"Marijn Haverbeke","price":318,"btn":"Buy Now"}]
